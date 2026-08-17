@@ -1,5 +1,5 @@
 /*
- * Original Version Author: [HSU, MING XIANG] (CC)
+ * Original Version Author: [HSU, MING-HSIANG] (CC)
  * Initial Version: 2026
  *
  * Developed for academic research at:

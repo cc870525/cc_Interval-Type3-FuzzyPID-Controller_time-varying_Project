@@ -1,6 +1,6 @@
 ## Source Code Research Use and Authorship Notice
 
-The first version of the source code in this project was originally developed by **[HSU, MING XIANG] (CC)**.
+The first version of the source code in this project was originally developed by **[HSU, MING-HSIANG] (CC)**.
 
 This project and its source code are provided to:
 
@@ -11,7 +11,7 @@ for academic research purposes, including experimental reproduction, system main
 
 When using, modifying, extending, or creating derivative works based on this source code, the original authorship information shall be retained and clearly identified as:
 
-**Original Version Author: [HSU, MING XIANG] (CC)**
+**Original Version Author: [HSU, MING-HSIANG] (CC)**
 
 
 Subsequent researchers may modify or extend the source code according to research requirements. However, the original-version authorship information shall not be removed, replaced, obscured, or otherwise made unidentifiable.
